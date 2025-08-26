@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=400&color=000000&text=SeongJu%20Jeong&textBg=false&fontColor=F6BE00&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=000000&text=SeongJu%20Jeong&textBg=false&fontColor=F6BE00&animation=twinkling)
 
 ## 👦 Introduce
 
