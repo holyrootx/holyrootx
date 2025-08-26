@@ -1,5 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=000000&text=SeongJu%20Jeong&textBg=false&fontColor=F6BE00&animation=twinkling)
 
+## 👨‍💻 Introduction Website
+👇 This is my Introduction site. <br/>
+👇 Want to get to know me quickly? <br/>
+👇 My personal website is a great place to start. <br/>
+[My Portfolio](https://portfolio-omega-two-m80dj76j6h.vercel.app/)
+
 ## 👦 Introduce
 
 Hi there 👋 
@@ -7,6 +13,9 @@ Hi there 👋
 I think the job of a developer is an attractive one because i get to improve day by day.
 <br/>
 I like how I grow through learning new skills and solving problems every day.
+<br/>
+
+
 
 ## 📚 Used
 
@@ -51,6 +60,9 @@ I like how I grow through learning new skills and solving problems every day.
 Email : tjdwn1171@gmail.com <br/>
 👇👇 send to the email below <br/>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:tjdwn1171@gmail.com)
+
+## Used Language In Github
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=holyrootx&layout=compact&theme=tokyonight)
 
 ## Thank you
 🙇‍♂️ Thank you for reading my profile.
