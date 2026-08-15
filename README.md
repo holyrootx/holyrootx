@@ -2,11 +2,6 @@
 
 [[English Version]](README_en.md)
 
-## 👨‍💻 소개 웹사이트
-👇 저를 소개하는 웹사이트를 만들었습니다.<br/>
-👇 이곳을 방문해주세요!<br/>
-[[Introduction Web Site]](https://portfolio-omega-two-m80dj76j6h.vercel.app/)
-
 ## 👦 소개
 안녕하세요 👋 <br/>
 개발자는 매일매일 발전해나가는 것이 매력적인 직업이라 생각합니다.<br/>
