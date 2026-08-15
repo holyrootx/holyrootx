@@ -49,9 +49,6 @@ I like how I grow through learning new skills and solving problems every day.
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)
 
-## 📋 Resume
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)](https://amplified-kingfisher-7fa.notion.site/22ae5543db6a80b89a9fe968c5adc04a)
-
 ## ✉️ Contact
 Email : tjdwn1171@gmail.com <br/>
 👇👇 send to the email below <br/>
