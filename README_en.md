@@ -2,12 +2,6 @@
 
 [한국어 버전](README.md)
 
-## 👨‍💻 Introduction Website
-👇 This is my Introduction site. <br/>
-👇 Want to get to know me quickly? <br/>
-👇 My personal website is a great place to start. <br/>
-[My Portfolio](https://portfolio-omega-two-m80dj76j6h.vercel.app/)
-
 ## 👦 Introduce
 
 Hi there 👋 
