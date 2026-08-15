@@ -50,11 +50,6 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)
 
-##
-
-## 📋 이력서
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)](https://amplified-kingfisher-7fa.notion.site/22ae5543db6a80b89a9fe968c5adc04a)
-
 ## ✉️ 연락처
 Email : tjdwn1171@gmail.com <br/>
 👇👇 아래 이메일로 메일 보내기 <br/>
